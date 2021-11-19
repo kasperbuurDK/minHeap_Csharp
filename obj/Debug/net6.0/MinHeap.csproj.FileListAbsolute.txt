@@ -1,0 +1,15 @@
+/home/kasper/RiderProjects/MinHeap/bin/Debug/net6.0/MinHeap
+/home/kasper/RiderProjects/MinHeap/bin/Debug/net6.0/MinHeap.deps.json
+/home/kasper/RiderProjects/MinHeap/bin/Debug/net6.0/MinHeap.runtimeconfig.json
+/home/kasper/RiderProjects/MinHeap/bin/Debug/net6.0/MinHeap.dll
+/home/kasper/RiderProjects/MinHeap/bin/Debug/net6.0/ref/MinHeap.dll
+/home/kasper/RiderProjects/MinHeap/bin/Debug/net6.0/MinHeap.pdb
+/home/kasper/RiderProjects/MinHeap/obj/Debug/net6.0/MinHeap.csproj.AssemblyReference.cache
+/home/kasper/RiderProjects/MinHeap/obj/Debug/net6.0/MinHeap.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/RiderProjects/MinHeap/obj/Debug/net6.0/MinHeap.AssemblyInfoInputs.cache
+/home/kasper/RiderProjects/MinHeap/obj/Debug/net6.0/MinHeap.AssemblyInfo.cs
+/home/kasper/RiderProjects/MinHeap/obj/Debug/net6.0/MinHeap.csproj.CoreCompileInputs.cache
+/home/kasper/RiderProjects/MinHeap/obj/Debug/net6.0/MinHeap.dll
+/home/kasper/RiderProjects/MinHeap/obj/Debug/net6.0/ref/MinHeap.dll
+/home/kasper/RiderProjects/MinHeap/obj/Debug/net6.0/MinHeap.pdb
+/home/kasper/RiderProjects/MinHeap/obj/Debug/net6.0/MinHeap.genruntimeconfig.cache
