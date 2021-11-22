@@ -1,6 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
+/*
+ * Author: Kasper Buur Vistesen 
+ * Creating MinHeap with height 4 from an inputarray of integers. The heap maintains the incomming index with the datavalue
+ * 
+ */
+
 using System;
 
 namespace MinHeap
